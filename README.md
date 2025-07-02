@@ -1,10 +1,9 @@
-# nassdubstudio.github.io<header>
-  <!DOCTYPE html>
+# nassdubstudio.github.io
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Nass Dub Studio Kaduna</title>
+  Nass Dub Studio Kaduna
   <link href="style.css" rel="stylesheet"/>
 </head>
 <body>
