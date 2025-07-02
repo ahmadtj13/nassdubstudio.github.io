@@ -39,13 +39,46 @@
     <p>📞 Phone: <a href="tel:+2348146125623">08146125623</a></p>
     <p>📍 Address: Shop 128, Kawo Motor Park, Kaduna</p>
   </section>
-
   <a href="https://wa.me/2348146125623" class="whatsapp-float" target="_blank">
     💬 Chat with us on WhatsApp
   </a>
-
   <footer>
     <p>&copy; 2025 Nass Dub Studio Kaduna. All rights reserved.</p>
+  </footer><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Media Gallery | Nass Dub Studio Kaduna</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fffaf0;
+      margin: 0;
+      padding: 0;
+      color: #222
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>🎬 Nass Dub Studio Media Gallery</h1>
+    <p>Photos, Videos, and Music from Our text-al
+text-ader>
+
+  <section>
+    <h2>📸 Picture</h2>
+    <div class="media-item">
+      <p>Studio Session</p>
+      <img src="studio-photo.jpg" alt="Studio Session" />
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Nass Dub Studio Kaduna</p>
   </footer>
+
+</body>
+</html>
 </body>
 </html>
